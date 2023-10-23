@@ -9,10 +9,10 @@ from bs4 import BeautifulSoup
 class ETL:
     '''Class representing an ETL Processing'''
 
-    LOG_FILE = "Logs/code_log.txt"
-    EXCHANGE_RATE = "Assets/exchange_rate.csv"
-    TARGET_STORE_FILE = "ProcessedData/Largest_banks_data.csv"
-    DB_NAME = "Database/Banks.db"
+    LOG_FILE : str = "Logs/code_log.txt"
+    EXCHANGE_RATE : str = "Assets/exchange_rate.csv"
+    TARGET_STORE_FILE : str  = "ProcessedData/Largest_banks_data.csv"
+    DB_NAME : str = "Database/Banks.db"
 
     def log_progress(self, message):
         ''' This function logs the mentioned message of a given stage of the

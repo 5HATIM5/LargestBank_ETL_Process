@@ -7,3 +7,39 @@
 2023-Oct-23-16:01:46,Data loaded to Database as a table, Executing queries
 2023-Oct-23-16:01:46,Process Complete
 2023-Oct-23-16:01:46,Server Connection closed
+2023-Oct-23-16:34:51,ETL Job Started
+2023-Oct-23-16:34:51,Preliminaries complete. Initiating ETL process
+2023-Oct-23-16:34:54,Data extraction complete. Initiating Transformation process
+2023-Oct-23-16:34:54,Data transformation complete. Initiating Loading process
+2023-Oct-23-16:34:54,Data saved to CSV file
+2023-Oct-23-16:34:54,SQL Connection initiated
+2023-Oct-23-16:34:54,Data loaded to Database as a table, Executing queries
+2023-Oct-23-16:34:54,Process Complete
+2023-Oct-23-16:34:54,Server Connection closed
+2023-Oct-23-16:35:02,ETL Job Started
+2023-Oct-23-16:35:02,Preliminaries complete. Initiating ETL process
+2023-Oct-23-16:35:03,Data extraction complete. Initiating Transformation process
+2023-Oct-23-16:35:03,Data transformation complete. Initiating Loading process
+2023-Oct-23-16:35:03,Data saved to CSV file
+2023-Oct-23-16:35:03,SQL Connection initiated
+2023-Oct-23-16:35:03,Data loaded to Database as a table, Executing queries
+2023-Oct-23-16:35:03,Process Complete
+2023-Oct-23-16:35:03,Server Connection closed
+2023-Oct-23-16:37:10,ETL Job Started
+2023-Oct-23-16:37:10,Preliminaries complete. Initiating ETL process
+2023-Oct-23-16:37:11,Data extraction complete. Initiating Transformation process
+2023-Oct-23-16:37:11,Data transformation complete. Initiating Loading process
+2023-Oct-23-16:37:11,Data saved to CSV file
+2023-Oct-23-16:37:11,SQL Connection initiated
+2023-Oct-23-16:37:11,Data loaded to Database as a table, Executing queries
+2023-Oct-23-16:37:11,Process Complete
+2023-Oct-23-16:37:11,Server Connection closed
+2023-Oct-23-16:39:14,ETL Job Started
+2023-Oct-23-16:39:14,Preliminaries complete. Initiating ETL process
+2023-Oct-23-16:39:15,Data extraction complete. Initiating Transformation process
+2023-Oct-23-16:39:15,Data transformation complete. Initiating Loading process
+2023-Oct-23-16:39:15,Data saved to CSV file
+2023-Oct-23-16:39:15,SQL Connection initiated
+2023-Oct-23-16:39:15,Data loaded to Database as a table, Executing queries
+2023-Oct-23-16:39:15,Process Complete
+2023-Oct-23-16:39:15,Server Connection closed
